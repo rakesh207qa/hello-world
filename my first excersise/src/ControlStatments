@@ -1,0 +1,21 @@
+# types of control flow statements in java
+
+1), Decision making statements
+	if statement
+	if else
+	if else if
+	switch statement
+
+2), Loop Statements
+	do while loop
+	while loop
+	for loop
+	for each loop
+
+3), Jump Statements
+	break statement
+	continue statement
+
+Ternary Operator:
+Sysntax	
+variable = expression?expression1:expression2
